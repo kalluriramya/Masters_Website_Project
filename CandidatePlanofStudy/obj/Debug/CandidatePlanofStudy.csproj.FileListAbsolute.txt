@@ -1,0 +1,6 @@
+c:\users\fit\documents\visual studio 2013\Projects\CandidatePlanofStudy\CandidatePlanofStudy\bin\CandidatePlanofStudy.dll.config
+c:\users\fit\documents\visual studio 2013\Projects\CandidatePlanofStudy\CandidatePlanofStudy\bin\CandidatePlanofStudy.dll
+c:\users\fit\documents\visual studio 2013\Projects\CandidatePlanofStudy\CandidatePlanofStudy\bin\CandidatePlanofStudy.pdb
+c:\users\fit\documents\visual studio 2013\Projects\CandidatePlanofStudy\CandidatePlanofStudy\obj\Debug\CandidatePlanofStudy.csprojResolveAssemblyReference.cache
+c:\users\fit\documents\visual studio 2013\Projects\CandidatePlanofStudy\CandidatePlanofStudy\obj\Debug\CandidatePlanofStudy.dll
+c:\users\fit\documents\visual studio 2013\Projects\CandidatePlanofStudy\CandidatePlanofStudy\obj\Debug\CandidatePlanofStudy.pdb
